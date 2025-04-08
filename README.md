@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is <br>
-Author-Ishika Jindal
+Author-Ishika Jindal(chitkara)
